@@ -1,0 +1,4 @@
+"Algol","Javascript","Visual Base","Clipper","Dart",
+"Eiffel","Eiffel","Erlang","C#","Pascal","Pascal","Perl","Prolog",
+"Ruby","Ruby","Swift","Kotlin","Ada","FoxPro","FoxPro","Haskell","Java",
+"Java","LaTex","Lua"
